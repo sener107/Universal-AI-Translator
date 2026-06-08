@@ -1,1 +1,13 @@
-
+streamlit
+torch
+transformers
+sentencepiece
+accelerate
+joblib
+scikit-learn
+gtts
+streamlit-mic-recorder
+requests
+ffmpeg-python
+sacremoses
+protobuf
